@@ -4,7 +4,6 @@
 **Blinkit** - *India’s Last Minute App*
 This dashboard provides a comprehensive visualization of product sales, outlet performance, and customer preferences across various regions, item types, and outlet formats.
 
-![Blinkit Dashboard](BLINKIT_DASHBOARD.jpg)
 
 ---
 
